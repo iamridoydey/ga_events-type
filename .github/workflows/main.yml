@@ -3,7 +3,7 @@ on:
   # On push to the fix branch
   push:
     branches:
-      - "fix"
+      - "fix/*"
   # On pull request
   pull_request:
     types:
