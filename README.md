@@ -1,4 +1,5 @@
 # GitHub Actions Events Example
+
 This repository demonstrates different types of events that can trigger GitHub Actions workflows.
 
 ## Overview
